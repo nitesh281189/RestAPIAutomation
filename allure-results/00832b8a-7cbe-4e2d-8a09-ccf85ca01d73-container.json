@@ -1,0 +1,1 @@
+{"uuid":"00832b8a-7cbe-4e2d-8a09-ccf85ca01d73","name":"com.qa.test.POSTApiTest.setup","children":["52f92052-45db-4383-855c-8d09d3a2a925"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1640800016126,"stop":1640800016132}],"afters":[],"start":1640800016125,"stop":1640800016133}

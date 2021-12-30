@@ -1,0 +1,1 @@
+{"uuid":"1b8eb394-795c-4d4e-ab52-dd9339f49881","name":"com.qa.test.GETApiTest.setup","children":["d20b6cee-b148-459b-b513-009463a0212f"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1640793819177,"stop":1640793819177}],"afters":[],"start":1640793819177,"stop":1640793819177}

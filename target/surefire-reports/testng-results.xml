@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="FREE CRM Application Test Automation Test Suite" duration-ms="5608" started-at="2021-12-29T16:04:02Z" finished-at="2021-12-29T16:04:08Z">
+    <groups>
+    </groups>
+    <test name="REST API Test Cases" duration-ms="5608" started-at="2021-12-29T16:04:02Z" finished-at="2021-12-29T16:04:08Z">
+      <class name="com.qa.test.GETApiTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.test.GETApiTest@71ae31b0]" name="setup" is-config="true" duration-ms="36" started-at="2021-12-29T16:04:02Z" finished-at="2021-12-29T16:04:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getApiTestWithoutHeader()[pri:1, instance:com.qa.test.GETApiTest@71ae31b0]" name="getApiTestWithoutHeader" duration-ms="5233" started-at="2021-12-29T16:04:02Z" finished-at="2021-12-29T16:04:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getApiTestWithoutHeader -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.test.GETApiTest@71ae31b0]" name="setup" is-config="true" duration-ms="1" started-at="2021-12-29T16:04:08Z" finished-at="2021-12-29T16:04:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getApiTestWithHeader()[pri:2, instance:com.qa.test.GETApiTest@71ae31b0]" name="getApiTestWithHeader" duration-ms="167" started-at="2021-12-29T16:04:08Z" finished-at="2021-12-29T16:04:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getApiTestWithHeader -->
+      </class> <!-- com.qa.test.GETApiTest -->
+    </test> <!-- REST API Test Cases -->
+  </suite> <!-- FREE CRM Application Test Automation Test Suite -->
+</testng-results>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="7.132" tests="2" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\Nitesh Agrawal\eclipse-workspace\RESTApi2\target\test-classes;C:\Users\Nitesh Agrawal\eclipse-workspace\RESTApi2\target\classes;C:\Users\Nitesh Agrawal\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\Nitesh Agrawal\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Nitesh Agrawal\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\Nitesh Agrawal\.m2\repository\org\apache\httpcomponents\httpcore\4.4.15\httpcore-4.4.15.jar;C:\Users\Nitesh Agrawal\.m2\repository\io\qameta\allure\allure-testng\2.17.2\allure-testng-2.17.2.jar;C:\Users\Nitesh Agrawal\.m2\repository\io\qameta\allure\allure-java-commons\2.17.2\allure-java-commons-2.17.2.jar;C:\Users\Nitesh Agrawal\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\Nitesh Agrawal\.m2\repository\io\qameta\allure\allure-model\2.17.2\allure-model-2.17.2.jar;C:\Users\Nitesh Agrawal\.m2\repository\io\qameta\allure\allure-test-filter\2.17.2\allure-test-filter-2.17.2.jar;C:\Users\Nitesh Agrawal\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar;C:\Users\Nitesh Agrawal\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\Nitesh Agrawal\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar;C:\Users\Nitesh Agrawal\.m2\repository\org\json\json\20211205\json-20211205.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_311\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\Nitesh Agrawal\AppData\Local\Temp\surefire595826974955641337\surefirebooter8482439569292084595.jar C:\Users\Nitesh Agrawal\AppData\Local\Temp\surefire595826974955641337 2021-12-29T21-33-59_718-jvmRun1 surefire436741264211388587tmp surefire_06715847535679828584tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\Nitesh Agrawal\eclipse-workspace\RESTApi2\target\test-classes;C:\Users\Nitesh Agrawal\eclipse-workspace\RESTApi2\target\classes;C:\Users\Nitesh Agrawal\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\Nitesh Agrawal\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Nitesh Agrawal\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\Nitesh Agrawal\.m2\repository\org\apache\httpcomponents\httpcore\4.4.15\httpcore-4.4.15.jar;C:\Users\Nitesh Agrawal\.m2\repository\io\qameta\allure\allure-testng\2.17.2\allure-testng-2.17.2.jar;C:\Users\Nitesh Agrawal\.m2\repository\io\qameta\allure\allure-java-commons\2.17.2\allure-java-commons-2.17.2.jar;C:\Users\Nitesh Agrawal\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\Nitesh Agrawal\.m2\repository\io\qameta\allure\allure-model\2.17.2\allure-model-2.17.2.jar;C:\Users\Nitesh Agrawal\.m2\repository\io\qameta\allure\allure-test-filter\2.17.2\allure-test-filter-2.17.2.jar;C:\Users\Nitesh Agrawal\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar;C:\Users\Nitesh Agrawal\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\Nitesh Agrawal\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar;C:\Users\Nitesh Agrawal\.m2\repository\org\json\json\20211205\json-20211205.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Nitesh Agrawal"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_311\jre"/>
+    <property name="basedir" value="C:\Users\Nitesh Agrawal\eclipse-workspace\RESTApi2"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\Nitesh Agrawal\AppData\Local\Temp\surefire595826974955641337\surefirebooter8482439569292084595.jar;C:\Users\Nitesh Agrawal\.m2\repository/org/aspectj/aspectjweaver/1.8.10/aspectjweaver-1.8.10.jar"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_311\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_311\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_311\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_311\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_311\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_311\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_311\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_311\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_311-b11"/>
+    <property name="user.name" value="Nitesh Agrawal"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_311\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\Nitesh Agrawal\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\NITESH~1\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_311"/>
+    <property name="user.dir" value="C:\Users\Nitesh Agrawal\eclipse-workspace\RESTApi2"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_311\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Nitesh Agrawal\AppData\Local\Android\Sdk\tools\bin;C:\Users\Nitesh Agrawal\AppData\Local\Android\Sdk\platform-tools;C:\Users\Nitesh Agrawal\AppData\Local\Android\Sdk\tools;C:\Program Files\Java\jre1.8.0_311\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk1.8.0_311\bin;D:\Softwares\apache-maven-3.8.4-bin.tar\apache-maven-3.8.4-bin\apache-maven-3.8.4\bin;D:\Softwares\allure-2.17.2\bin;C:\Users\Nitesh Agrawal\AppData\Local\Microsoft\WindowsApps;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.311-b11"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_311\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="getApiTestWithoutHeader" classname="com.qa.test.GETApiTest" time="5.253">
+    <system-out><![CDATA[ResponseJSONfromAPI:{"per_page":6,"total":12,"data":[{"last_name":"Bluth","id":1,"avatar":"https://reqres.in/img/faces/1-image.jpg","first_name":"George","email":"george.bluth@reqres.in"},{"last_name":"Weaver","id":2,"avatar":"https://reqres.in/img/faces/2-image.jpg","first_name":"Janet","email":"janet.weaver@reqres.in"},{"last_name":"Wong","id":3,"avatar":"https://reqres.in/img/faces/3-image.jpg","first_name":"Emma","email":"emma.wong@reqres.in"},{"last_name":"Holt","id":4,"avatar":"https://reqres.in/img/faces/4-image.jpg","first_name":"Eve","email":"eve.holt@reqres.in"},{"last_name":"Morris","id":5,"avatar":"https://reqres.in/img/faces/5-image.jpg","first_name":"Charles","email":"charles.morris@reqres.in"},{"last_name":"Ramos","id":6,"avatar":"https://reqres.in/img/faces/6-image.jpg","first_name":"Tracey","email":"tracey.ramos@reqres.in"}],"page":1,"total_pages":2,"support":{"text":"To keep ReqRes free, contributions towards server costs are appreciated!","url":"https://reqres.in/#support-heading"}}
+The values per page is 6
+Bluth
+Headers Array{Transfer-Encoding=chunked, Server=cloudflare, CF-RAY=6c54432bafa8857b-BOM, Connection=keep-alive, Date=Wed, 29 Dec 2021 16:04:07 GMT, via=1.1 vegur, access-control-allow-origin=*, CF-Cache-Status=HIT, Cache-Control=max-age=14400, NEL={"success_fraction":0,"report_to":"cf-nel","max_age":604800}, Report-To={"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2BWtnaR3vAJ8%2B7FEn0q69uYickY%2BkaTZDSnbpVEcqGb0GoqQvjOddpGU1N%2FnbkXUHywIupk573AlxyeOezQaw5FlV8wZkrIC7i1zw7YXavEQmunA6y2JDOw8vjQc%3D"}],"group":"cf-nel","max_age":604800}, x-powered-by=Express, etag=W/"3e4-2RLXvr5wTg9YQ6aH95CkYoFNuO8", Vary=Accept-Encoding, alt-svc=h3=":443"; ma=86400, h3-29=":443"; ma=86400, h3-28=":443"; ma=86400, h3-27=":443"; ma=86400, Age=2479, Content-Type=application/json; charset=utf-8, Expect-CT=max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"}
+]]></system-out>
+    <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+  </testcase>
+  <testcase name="getApiTestWithHeader" classname="com.qa.test.GETApiTest" time="0.214">
+    <system-out><![CDATA[ResponseJSONfromAPI:{"per_page":6,"total":12,"data":[{"last_name":"Bluth","id":1,"avatar":"https://reqres.in/img/faces/1-image.jpg","first_name":"George","email":"george.bluth@reqres.in"},{"last_name":"Weaver","id":2,"avatar":"https://reqres.in/img/faces/2-image.jpg","first_name":"Janet","email":"janet.weaver@reqres.in"},{"last_name":"Wong","id":3,"avatar":"https://reqres.in/img/faces/3-image.jpg","first_name":"Emma","email":"emma.wong@reqres.in"},{"last_name":"Holt","id":4,"avatar":"https://reqres.in/img/faces/4-image.jpg","first_name":"Eve","email":"eve.holt@reqres.in"},{"last_name":"Morris","id":5,"avatar":"https://reqres.in/img/faces/5-image.jpg","first_name":"Charles","email":"charles.morris@reqres.in"},{"last_name":"Ramos","id":6,"avatar":"https://reqres.in/img/faces/6-image.jpg","first_name":"Tracey","email":"tracey.ramos@reqres.in"}],"page":1,"total_pages":2,"support":{"text":"To keep ReqRes free, contributions towards server costs are appreciated!","url":"https://reqres.in/#support-heading"}}
+The values per page is 6
+Bluth
+Headers Array{Transfer-Encoding=chunked, Server=cloudflare, CF-RAY=6c54432d1fe931b1-BOM, Connection=keep-alive, Date=Wed, 29 Dec 2021 16:04:07 GMT, via=1.1 vegur, access-control-allow-origin=*, CF-Cache-Status=HIT, Cache-Control=max-age=14400, NEL={"success_fraction":0,"report_to":"cf-nel","max_age":604800}, Report-To={"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=r2WfbkSp0fwri%2B8LCHl08UTEEPL%2F7VanpT24Mnw4quMNBuJV3oh5e0zD3ujgI%2B%2B3sHk5AwA0ien%2Fr5Imwaz4P5gbyYUaJ86vy35eCVYevRk98ryRflBRZm%2FG%2Fck%3D"}],"group":"cf-nel","max_age":604800}, x-powered-by=Express, etag=W/"3e4-2RLXvr5wTg9YQ6aH95CkYoFNuO8", Vary=Accept-Encoding, alt-svc=h3=":443"; ma=86400, h3-29=":443"; ma=86400, h3-28=":443"; ma=86400, h3-27=":443"; ma=86400, Age=4193, Content-Type=application/json; charset=utf-8, Expect-CT=max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"}
+]]></system-out>
+  </testcase>
+</testsuite>
